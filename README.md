@@ -122,7 +122,51 @@ https://www.ssutsav.in
 
 ## 📸 Project Screenshots
 
-Screenshots of the live website and major sections will be added here.
+### 🏠 Home
+
+![SS UTSAV Home Hero](./Home_Hero_Page.png)
+
+![SS UTSAV Home Page](./Home_Page.png)
+
+---
+
+### 🎉 Services & Packages
+
+![SS UTSAV Services](./services_page.png)
+
+![SS UTSAV Packages](./Package_Page.png)
+
+---
+
+### 🖼️ Gallery & Reviews
+
+![SS UTSAV Gallery](./Gallery_page.png)
+
+![SS UTSAV Reviews](./Reviews_Page.png)
+
+![SS UTSAV Review Page](./Review_Page.png)
+
+---
+
+### 📩 Contact & Quote
+
+![SS UTSAV Contact](./Contact_page.png)
+
+![SS UTSAV Quote](./Quote1_Page.png)
+
+![SS UTSAV Quote Details](./Quote2_Page.png)
+
+---
+
+### ⚙️ Admin
+
+![SS UTSAV Admin](./Admin_Page.png)
+
+![SS UTSAV Admin Dashboard](./Admin_Dashboard.png)
+
+![SS UTSAV Admin Leads](./Admin_Leads.png)
+
+![SS UTSAV Admin Events](./Admin_Event_Page.png)
 
 ---
 
@@ -133,22 +177,17 @@ The production source code repository is kept **private**.
 This public repository is intended to provide project documentation, screenshots, architecture information, technology details, and the live project link without exposing the production source code.
 
 ---
-
 ## 🚀 Future Development
 
-The platform can be extended with additional business-management capabilities such as:
+Potential future enhancements include:
 
-- Admin dashboard
-- Lead management
-- Customer management
-- Event management
-- Quotations
 - Payment management
 - Vendor management
 - Task management
-- Calendar
+- Calendar and scheduling
 - Expense tracking
-- Reports
+- Business reports
+- Additional automation and management features
 
 ---
 
