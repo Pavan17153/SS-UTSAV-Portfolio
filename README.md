@@ -59,3 +59,118 @@ The platform provides a professional online presence for an event management bus
                     │       MySQL          │
                     │      Database        │
                     └──────────────────────┘
+```
+
+---
+## 🛠️ Technology Stack
+
+### Frontend
+- Next.js
+- TypeScript
+- Responsive UI
+
+### Backend
+- Python
+- FastAPI
+- REST APIs
+
+### Database
+- MySQL
+
+### Deployment & Version Control
+- Git
+- GitHub
+- Render
+
+---
+
+## 🎯 Project Objectives
+
+- Create a professional online presence for SS UTSAV
+- Showcase event management services and offerings
+- Provide customers with an easy way to explore services
+- Provide a foundation for customer enquiries and business workflows
+- Build the application using a separate frontend and backend architecture
+- Deploy the application for public access
+
+---
+
+## 👨‍💻 My Role
+
+**Full-Stack Developer**
+
+I worked on the development and deployment of the SS UTSAV platform, including:
+
+- Frontend development
+- Backend API development
+- Database integration
+- Frontend–backend integration
+- Application structure and architecture
+- Deployment and configuration
+- Git/GitHub workflow
+
+---
+
+## 🌐 Live Project
+
+### SS UTSAV
+
+**Live Website:**  
+https://www.ssutsav.in
+
+---
+
+## 📸 Project Screenshots
+
+Screenshots of the live website and major sections will be added here.
+
+---
+
+## 🔐 Source Code
+
+The production source code repository is kept **private**.
+
+This public repository is intended to provide project documentation, screenshots, architecture information, technology details, and the live project link without exposing the production source code.
+
+---
+
+## 🚀 Future Development
+
+The platform can be extended with additional business-management capabilities such as:
+
+- Admin dashboard
+- Lead management
+- Customer management
+- Event management
+- Quotations
+- Payment management
+- Vendor management
+- Task management
+- Calendar
+- Expense tracking
+- Reports
+
+---
+
+## 📄 Project Details
+
+| Category | Details |
+|---|---|
+| Project | SS UTSAV |
+| Type | Event Management Platform |
+| Application | Full-Stack Web Application |
+| Frontend | Next.js + TypeScript |
+| Backend | FastAPI |
+| Database | MySQL |
+| Deployment | Render |
+| Status | Live |
+| Website | https://www.ssutsav.in |
+
+---
+
+## 🎉 SS UTSAV
+
+> **We Plan. You Celebrate.**
+
+
+
